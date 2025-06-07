@@ -223,6 +223,12 @@ nav {
     right: 10%;
     transform: rotate(-10deg);
 }
+.portfolio-item a {
+  color: white;              /* makes the text white */
+  font-family: 'Arial', sans-serif;  /* change to your desired font */
+  text-decoration: none;     /* optional: removes underline */
+  font-size: 16px;           /* optional: adjust as needed */
+}
 
 /* Footer */
 footer {
