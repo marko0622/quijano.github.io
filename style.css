@@ -109,12 +109,6 @@
   text-decoration: none;     /* optional: removes underline */
   font-size: 16px;           /* optional: adjust as needed */
 }
-  .portfolio-item {
-    background: #2d2140;
-    padding: 10px;
-    border-radius: 10px;
-  }
-
   .experience {
     padding: 40px 20px;
     background: #261a3f;
