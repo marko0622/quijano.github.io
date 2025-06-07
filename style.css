@@ -109,6 +109,9 @@
   text-decoration: none;     /* optional: removes underline */
   font-size: 16px;           /* optional: adjust as needed */
 }
+.portfolio-item {
+  color: white;
+}
   .experience {
     padding: 40px 20px;
     background: #261a3f;
