@@ -103,7 +103,12 @@
     gap: 20px;
     margin-top: 20px;
   }
-
+.portfolio-item a {
+  color: white;              /* makes the text white */
+  font-family: 'Arial', sans-serif;  /* change to your desired font */
+  text-decoration: none;     /* optional: removes underline */
+  font-size: 16px;           /* optional: adjust as needed */
+}
   .portfolio-item {
     background: #2d2140;
     padding: 10px;
